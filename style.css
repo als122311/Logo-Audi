@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+}
+
+.cryg{
+    border: solid black 15px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+
+    
+
+}
+
+
+
+
+
+.cryg1{
+    border: solid black 15px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: -20;
+
+}
+
+
